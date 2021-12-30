@@ -4,7 +4,7 @@ metadata:
   generateName: python-
 projects:
   -
-    name: python-hello-world
+    name: python-starter
     source:
       type: git
       location: "https://github.com/metaversed/python-hello-world.git"
