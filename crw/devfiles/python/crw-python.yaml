@@ -9,7 +9,7 @@ metadata:
   projectType: 'python'
   language: 'python'
 starterProjects:
-  - name: pythoverse
+  - name: python-example
     git:
       remotes:
         origin: https://github.com/metaversed/pythoverse.git
