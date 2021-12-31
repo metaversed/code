@@ -12,7 +12,7 @@ starterProjects:
   - name: pythoverse
     git:
       remotes:
-        origin: https://github.com/metaversed/learn-python.git
+        origin: https://github.com/metaversed/pythoverse.git
 components:
   - name: py-web
     container:
